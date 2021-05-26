@@ -1,0 +1,1 @@
+Predicts RGB magnitudes from Gaia EDR3 photometric data. These magnitudes are given in the standard system defined by Cardiel et al. (2021a).
